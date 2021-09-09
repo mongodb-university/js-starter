@@ -1,0 +1,30 @@
+{
+  "name": "js-starter",
+  "version": "0.1.0",
+  "description": "A sample javascript starter for MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongodb-university/js-starter.git"
+  },
+  "author": "Developer Education Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mongodb-university/js-starter/issues"
+  },
+  "homepage": "https://github.com/mongodb-university/js-starter#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^4.1.1"
+  },
+  "prettier": {
+    "semi": true
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "prettier": "^2.2.1"
+  }
+}
