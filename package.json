@@ -18,7 +18,7 @@
   "homepage": "https://github.com/mongodb-university/js-starter#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongodb": "4.3.1"
+    "mongodb": "4.3"
   },
   "prettier": {
     "semi": true
